@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./me.jpg)
+<div aligin=center><img src="./me.jpg" width=" "></div>
 
 - 🔭 I'm working for myself for time being. 
 
