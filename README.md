@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body style="background-color:black;">
-  <p align="center"><a href="https://abson.github.io"><img width=" " alt="Hello, I'm Anurag. I do open source!" src="./me.jpg" /></a></p>
-</body>
 
 
 - 🔭 I'm working for myself for time being. 
@@ -30,6 +27,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact I love to enjoy saxophone music and coffee alone.
 
 - 🦸🏻‍ By the way I have worked in some company in China as a iOS developer. 
+
+<code><img height="20" alt="apple" src="./apple.svg"></code>  
+<code><img height="20" alt="c" src="./c.svg"></code>
+<code><img height="20" alt="dart" src="./dart.svg"></code>  
+<code><img height="20" alt="flutter" src="./flutter.svg"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="python" src="./python.svg"></code>
+<code><img height="20" alt="android" src="./android.svg"></code>
+<code><img height="20" alt="ruby" src="./ruby.svg"></code>
+
 
 ### 🌩 Pined
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=Fresh-Buyer-Flutter&theme=monokai)](https://github.com/Abson/Fresh-Buyer-Flutter)
