@@ -39,5 +39,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&theme=monokai)](https://github.com/Abson)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abson&layout=compact)](https://github.com/Abson)
 
-| <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&include_all_commits=true&theme=monokai" /></a> | <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abson&layout=compact&theme=monokai&" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&include_all_commits=true&theme=monokai" /></a> | <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abson&layout=compact&theme=monokai&" /></a>
