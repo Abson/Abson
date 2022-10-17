@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 - By the way I have worked in some company in China as a iOS developer. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abson)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
