@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ### 💻 Calculate 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&theme=monokai)](https://github.com/Abson)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abson)](https://github.com/Abson)
