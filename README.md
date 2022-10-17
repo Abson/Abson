@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <body style="background-color:black;">
-  <p align="center"><a href="https://abson.github.io"><img width=" " alt="Hello, I'm Anurag. I do open source!" src="me.jpg" /></a></p>
+  <p align="center"><a href="https://abson.github.io"><img width=" " alt="Hello, I'm Anurag. I do open source!" src="https://app.yinxiang.com/FileSharing.action?hash=1/42451830d86c1eac7b321028fd07d945-252384" /></a></p>
 </body>
 
 - 🔭 I'm working for myself for time being. 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🦸🏻‍ By the way I have worked in some company in China as a iOS developer. 
 
-<code><img height="20" alt="apple" src="./apple.svg"></code> <code><img height="20" alt="c" src="./c.svg"></code> <code><img height="20" alt="dart" src="./dart.svg"></code> <code><img height="20" alt="flutter" src="./flutter.svg"></code> <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" alt="python" src="./python.svg"></code> <code><img height="20" alt="android" src="./android.svg"></code> <code><img height="20" alt="ruby" src="./ruby.svg"></code>
+<code><img height="20" alt="apple" src="https://app.yinxiang.com/FileSharing.action?hash=1/a11c702c02eadb2948f7b64a2f168825-2006"></code> <code><img height="20" alt="c" src="https://app.yinxiang.com/FileSharing.action?hash=1/f614053d8716064a88df68083df767a0-2456"></code> <code><img height="20" alt="dart" src="https://app.yinxiang.com/FileSharing.action?hash=1/713ff040f02bc6d9eda376af5e40d4cf-2748"></code> <code><img height="20" alt="flutter" src="https://app.yinxiang.com/FileSharing.action?hash=1/a2c21a398ece69d9d24ad12ac7bd96b6-1977"></code> <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" alt="python" src="https://app.yinxiang.com/FileSharing.action?hash=1/fb5b85fecb1b328d26f037995c1aa31b-2286"></code> <code><img height="20" alt="android" src="https://app.yinxiang.com/FileSharing.action?hash=1/72a25d72d9394d53c6affc2aef8ac571-1951"></code> <code><img height="20" alt="ruby" src="https://app.yinxiang.com/FileSharing.action?hash=1/e0cbccda7f789bbcdcbd1a15577c4157-4570"></code> <code><img height="20" alt="ruby" src="https://app.yinxiang.com/FileSharing.action?hash=1/1fc43b9bab42121892b26bfdd58f5dae-2673"></code>
 
 
 ### 🌩 Pined
