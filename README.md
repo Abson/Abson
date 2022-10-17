@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 - 🦸🏻‍ By the way I have worked in some company in China as a iOS developer. 
 
 ### 🌩 Pined
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=Fresh-Buyer-Flutter&theme=vue)](https://github.com/Abson/Fresh-Buyer-Flutter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=CameraRtmpSDK&theme=vue)](https://github.com/Abson/CameraRtmpSDK)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=Fresh-Buyer-Flutter&theme=monokai)](https://github.com/Abson/Fresh-Buyer-Flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=CameraRtmpSDK&theme=monokai)](https://github.com/Abson/CameraRtmpSDK)
 
 ### 💻 Calculate 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&theme=vue)](https://github.com/Abson)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&theme=monokai)](https://github.com/Abson)
 
