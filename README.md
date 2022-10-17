@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div aligin=center><img src="./me.jpg" width=" "></div>
-
-<p align="center"><a href="https://abson.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./me.jpg" /></a></p>
+<p align="center"><a href="https://abson.github.io"><img width=" " alt="Hello, I'm Anurag. I do open source!" src="./me.jpg" /></a></p>
 
 - 🔭 I'm working for myself for time being. 
 
