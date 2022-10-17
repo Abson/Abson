@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact I love to enjoy saxophone music and coffee alone.
 
-- By the way I have worked in some company in China as a iOS developer. 
+- 🦸🏻‍ By the way I have worked in some company in China as a iOS developer. 
 
 ### 🌩 Pined
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=Fresh-Buyer-Flutter&theme=monokai)](https://github.com/Abson/Fresh-Buyer-Flutter)
