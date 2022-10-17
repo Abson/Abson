@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 
 ### 🌩 Pined
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=Fresh-Buyer-Flutter&theme=monokai)](https://github.com/Abson/Fresh-Buyer-Flutter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=CameraRtmpSDK&theme=monokai)](https://github.com/Abson/CameraRtmpSDK)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=Fresh-Buyer-Flutter&theme=swift)](https://github.com/Abson/Fresh-Buyer-Flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=CameraRtmpSDK&theme=swift)](https://github.com/Abson/CameraRtmpSDK)
 
 ### 💻 Calculate 
-| <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" /></a> | <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abson&layout=compact&theme=monokai&hide_border=true" /></a> |
+| <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" /></a> | <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abson&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
