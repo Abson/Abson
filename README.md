@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <div aligin=center><img src="./me.jpg" width=" "></div>
 
+<p align="center"><a href="https://abson.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./me.jpg" /></a></p>
+
 - 🔭 I'm working for myself for time being. 
 
 - 🌱 I’m currently learning English hardly to wish to talk to you fluently in someday.
