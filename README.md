@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=CameraRtmpSDK&theme=monokai)](https://github.com/Abson/CameraRtmpSDK)
 
 ### 💻 Calculate 
-<a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&include_all_commits=true&theme=monokai" /></a>  <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abson&layout=compact&theme=monokai&" /></a>
+<a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&include_all_commits=true&theme=monokai" /></a> | <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abson&layout=compact&theme=monokai&" /></a>
