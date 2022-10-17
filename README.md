@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](./me.jpg)
 
 - 🔭 I'm working for myself for time being. 
 
