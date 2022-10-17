@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div background-color="black">
+  <p align="center"><a href="https://abson.github.io"><img width=" " alt="Hello, I'm Anurag. I do open source!" src="./me.jpg" /></a></p>
+</div>
 
-<p align="center"><a href="https://abson.github.io"><img width=" " alt="Hello, I'm Anurag. I do open source!" src="./me.jpg" /></a></p>
 
 - 🔭 I'm working for myself for time being. 
 
