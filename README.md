@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning English hardly to wish to talk to you fluently in someday.
 
-- 🤔 If you are attractived to me and have job to offer me to work, please <a href="mailto: absonpro@gmail.com">contact me</a> and let me konw.
+- 🤔 If you are attractived to me and have offers to me, please <a href="mailto: absonpro@gmail.com">contact me</a> and let me konw.
 
 - 👯 I’m looking to collaborate with other content creators
 
