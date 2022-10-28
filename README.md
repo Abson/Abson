@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm working for myself for the time being. 
 
-- 🌱 I’m currently learning English hardly to wish to talk to you fluently in someday.
+- 🌱 I’m currently paying an effort to practice verbal English.
 
 - 🤔 If you are attractived to me and have offers to me, please <a href="mailto: absonpro@gmail.com">contact me</a> and let me konw.
 
