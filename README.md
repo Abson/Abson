@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <p align="center"><a href="https://abson.github.io"><img width=" " alt="Hello, I'm Anurag. I do open source!" src="https://upload-images.jianshu.io/upload_images/1073278-c8764142ab0c97e2.png" /></a></p>
 </body>
 
-<img style="width:80%" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"></img>
+<img style="width:100%" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"></img>
 
 - 🔭 I'm working for myself for the time being. 
 
