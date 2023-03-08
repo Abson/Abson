@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <p align="center"><a href="https://abson.github.io"><img width=" " alt="Hello, I'm Anurag. I do open source!" src="https://upload-images.jianshu.io/upload_images/1073278-c8764142ab0c97e2.png" /></a></p>
 </body>
 
-<img style="width:100%" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"></img>
-
 - 🔭 I'm working for myself for the time being. 
 
 - 🌱 I’m currently paying an effort to practice verbal English.
@@ -41,6 +39,8 @@ Here are some ideas to get you started:
 ### 🌩 Pined
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=Fresh-Buyer-Flutter&theme=swift)](https://github.com/Abson/Fresh-Buyer-Flutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=CameraRtmpSDK&theme=swift)](https://github.com/Abson/CameraRtmpSDK)
+
+<img style="width:100%" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"></img>
 
 ### 💻 Calculate 
 | <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" /></a> | <a href="https://github.com/Abson"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abson&layout=compact&theme=swift&hide_border=true" /></a> |
