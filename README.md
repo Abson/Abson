@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently paying an effort to practice verbal English.
 
-- 🤔 I'm looking for a full-time job. Please <a href="mailto: absonpro@gmail.com">contact me</a> if you have any ideas.
+- 🤔 I'm looking for a full-time job. Please <a href="mailto: absonhe@gmail.com">contact me</a> if you have any ideas.
 
 - 👯 I’m looking to collaborate with other content creators
 
