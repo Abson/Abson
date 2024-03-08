@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <p align="center"><a href="https://abson.github.io"><img width=" " alt="Hello, I'm Anurag. I do open source!" src="https://upload-images.jianshu.io/upload_images/1073278-c8764142ab0c97e2.png" /></a></p>
 </body>
 
-- 🔭 I'm working for myself for the time being. 
+- 🔭 Working in LZ.FM right now. 
 
-- 🌱 I’m currently paying an effort to practice verbal English.
+- 🌱 I’m currently making an effort to practice verbal English.
 
 - 🤔 I'm looking for a full-time job. Please <a href="mailto: absonhe@gmail.com">contact me</a> if you have any ideas.
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact I love to enjoy saxophone music and coffee alone.
 
-- 🦸🏻‍ By the way as an iOS developer, these companies in China I have worked for contain 4399.inc YY.inc, BAIDU, etc.
+- 🦸🏻‍ By the way as an iOS developer, these companies in China I have worked for contain 4399.Inc YY.inc, BAIDU, etc.
 
 - 💬  Ask me about anything [here](https://github.com/Abson/Abson/issues)
 
