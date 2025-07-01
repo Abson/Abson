@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate with other content creators
 
-- ⚡ Fun fact I love to enjoy saxophone music and coffee alone.
+- ⚡ Fun fact: I love to enjoy saxophone music and coffee alone.
 
-- 🦸🏻‍ By the way as an iOS developer, these companies in China I have worked for contain 4399.Inc YY.inc, BAIDU, etc.
+- 🦸🏻‍ By the way, as a full-stack developer, these companies in China I have worked for include 4399, JOYY, BIDU, etc.
 
 - 💬  Ask me about anything [here](https://github.com/Abson/Abson/issues)
 
