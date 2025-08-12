@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abson&repo=CameraRtmpSDK&theme=swift)](https://github.com/Abson/CameraRtmpSDK)
 -->
 
+<!--
 ### 💻 Calculate 
 <a href="https://github.com/Abson" style="display: block; margin: 0 auto; width: fit-content;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abson&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" />
 </a>
+-->
